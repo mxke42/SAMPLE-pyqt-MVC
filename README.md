@@ -30,7 +30,7 @@
 ## OpenAI Integration
 
 ### OpenAI API Access
-- Logged into OpenAI using **mxke42@gmail.com**.
+- Logged into OpenAI using **email**.
 - Generated an API key for use in the project.
 
 ### ChatGPT Integration
