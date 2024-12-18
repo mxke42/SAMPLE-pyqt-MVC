@@ -7,7 +7,7 @@
 - Enabled the following APIs:
   - **Google Docs API**
   - **Google Drive API**
-- Generated a `credentials.json` file for service account authentication.
+- Generated a `credentials.json` file for service account authentication
 
 ### Grant Access to Google Doc
 - Shared the specified Google Doc with the email associated with the service account (found in `credentials.json`).
